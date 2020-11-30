@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 20.221 sec <<< FAILURE! - in TestSuite
+unValidedText_Capture_A_Screenshot(com.vndly.testCases.TC001_Student_RegistrationForm)  Time elapsed: 0.489 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Thanks for submitting the formA] but found [Thanks for submitting the form]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.vndly.testCases.TC001_Student_RegistrationForm.unValidedText_Capture_A_Screenshot(TC001_Student_RegistrationForm.java:74)
+
+unValidedText_Capture_A_Screenshot(com.vndly.testCases.TC001_Student_RegistrationForm)  Time elapsed: 0.491 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Thanks for submitting the formA] but found [Thanks for submitting the form]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.vndly.testCases.TC001_Student_RegistrationForm.unValidedText_Capture_A_Screenshot(TC001_Student_RegistrationForm.java:74)
+

@@ -1,0 +1,36 @@
+2020-11-30 09:59:37,002 [main] INFO com.vndlyForm - Enter First Name
+2020-11-30 09:59:37,078 [main] INFO com.vndlyForm - Enter Last Name
+2020-11-30 09:59:37,144 [main] INFO com.vndlyForm - Enter Email Address
+2020-11-30 09:59:37,229 [main] INFO com.vndlyForm - Select Gender: Male, Female or Others
+2020-11-30 09:59:37,304 [main] INFO com.vndlyForm - Enter Mobile Phone Number
+2020-11-30 09:59:37,387 [main] INFO com.vndlyForm - Submit the form
+2020-11-30 09:59:37,440 [main] INFO com.vndlyForm - Close Browser
+2020-11-30 09:59:37,490 [main] INFO com.vndlyForm - Thanks for submitting the form
+2020-11-30 09:59:37,513 [main] INFO com.vndlyForm - This is the message = Thanks for submitting the form
+2020-11-30 09:59:47,171 [main] INFO com.vndlyForm - Enter First Name
+2020-11-30 09:59:47,251 [main] INFO com.vndlyForm - Enter Last Name
+2020-11-30 09:59:47,318 [main] INFO com.vndlyForm - Enter Email Address
+2020-11-30 09:59:47,397 [main] INFO com.vndlyForm - Select Gender: Male, Female or Others
+2020-11-30 09:59:47,463 [main] INFO com.vndlyForm - Enter Mobile Phone Number
+2020-11-30 09:59:47,539 [main] INFO com.vndlyForm - Submit the form
+2020-11-30 09:59:47,589 [main] INFO com.vndlyForm - Close Browser
+2020-11-30 09:59:47,621 [main] INFO com.vndlyForm - Thanks for submitting the form
+2020-11-30 09:59:47,645 [main] INFO com.vndlyForm - This is the message = Thanks for submitting the form
+2020-11-30 10:03:12,662 [main] INFO com.vndlyForm - Enter First Name
+2020-11-30 10:03:12,741 [main] INFO com.vndlyForm - Enter Last Name
+2020-11-30 10:03:12,809 [main] INFO com.vndlyForm - Enter Email Address
+2020-11-30 10:03:12,904 [main] INFO com.vndlyForm - Select Gender: Male, Female or Others
+2020-11-30 10:03:12,973 [main] INFO com.vndlyForm - Enter Mobile Phone Number
+2020-11-30 10:03:13,051 [main] INFO com.vndlyForm - Submit the form
+2020-11-30 10:03:13,106 [main] INFO com.vndlyForm - Close Browser
+2020-11-30 10:03:13,159 [main] INFO com.vndlyForm - Thanks for submitting the form
+2020-11-30 10:03:13,187 [main] INFO com.vndlyForm - This is the message = Thanks for submitting the form
+2020-11-30 10:03:21,850 [main] INFO com.vndlyForm - Enter First Name
+2020-11-30 10:03:21,919 [main] INFO com.vndlyForm - Enter Last Name
+2020-11-30 10:03:21,980 [main] INFO com.vndlyForm - Enter Email Address
+2020-11-30 10:03:22,059 [main] INFO com.vndlyForm - Select Gender: Male, Female or Others
+2020-11-30 10:03:22,119 [main] INFO com.vndlyForm - Enter Mobile Phone Number
+2020-11-30 10:03:22,190 [main] INFO com.vndlyForm - Submit the form
+2020-11-30 10:03:22,235 [main] INFO com.vndlyForm - Close Browser
+2020-11-30 10:03:22,265 [main] INFO com.vndlyForm - Thanks for submitting the form
+2020-11-30 10:03:22,290 [main] INFO com.vndlyForm - This is the message = Thanks for submitting the form

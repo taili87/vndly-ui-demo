@@ -1,0 +1,6 @@
+com\vndly\PageObjects\Student_RegistrationFormPage.class
+com\vndly\PageObjects\BaseTest.class
+com\vndly\testCases\TC001_Student_RegistrationForm.class
+com\vndly\utilities\TestListeners.class
+com\vndly\utilities\ExtentManager.class
+com\vndly\utilities\ReadConfiguration.class
